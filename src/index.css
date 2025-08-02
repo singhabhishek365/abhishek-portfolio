@@ -34,3 +34,12 @@ body {
     line-height: normal;
   }
 }
+
+.software-skill-inline img {
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.software-skill-inline:hover img {
+  filter: grayscale(0%);
+}
