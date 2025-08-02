@@ -499,7 +499,7 @@ const achievementSection = {
       title: "Rising Star Award",
       subtitle:
         "Received during internship for showing rapid growth and initiative across multiple projects.",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/skill.svg"),
       imageAlt: "Rising Star Logo",
       footerLink: [
         {
