@@ -385,13 +385,17 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Screenshot 2025-08-23 at 10.36.25 PM.png"),
+      projectName: "EditorsApp",
+      projectDesc: "EditorsApp is a Social Networking Platform that allows users to post Updates on current events from around the world, share career opportunities, network with people who share their interests, post new developments, make public announcements, see trendy videos, News releases, upload videos, write & publish short articles. ",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Play Store link",
+          url: "https://play.google.com/store/apps/details?id=com.editorsapp.editorsapp&hl=en_IN"
+        },
+        {
+          name: "App Store link",
+          url: "https://apps.apple.com/de/app/editorsapp/id6476656253?l=en-GB"
         }
       ]
     }
@@ -486,7 +490,7 @@ const achievementSection = {
       title: "Leader's Choice Award",
       subtitle:
         "Awarded as an Associate for outstanding leadership, ownership, and problem-solving in team projects.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/leaderchoice.png"),
       imageAlt: "Leadership Award Logo",
       footerLink: [
         {
@@ -499,7 +503,7 @@ const achievementSection = {
       title: "Rising Star Award",
       subtitle:
         "Received during internship for showing rapid growth and initiative across multiple projects.",
-      image: require("./assets/images/skill.svg"),
+      image: require("./assets/images/Rising Star.jpg"),
       imageAlt: "Rising Star Logo",
       footerLink: [
         {
